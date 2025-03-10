@@ -1,6 +1,6 @@
 ## Ejercicio 1
 
-Crear un componente Stock que tome como props producto (string correspondiente a nombre), cantidad (número) y maximo (número), y renderice un elemento li que: - si la cantidad es menor al 10% de maximo, ponga el texto en rojo - si la cantidad es mayor a 10% de maximoy menor al 25% de maximo, ponga el texto en naranja - si la cantidad es mayor al 25% de maximo y menor al 40% de maximo, ponga el texto en amarillo - si la cantidad es mayor al 40% de maximo, ponga el texto en verde.
+Crear un componente Stock que tome como props producto (string correspondiente a nombre), cantidad (número) y maximo (número), y renderice un elemento li que: - si la cantidad es menor al 10% de máximo, ponga el texto en rojo - si la cantidad es mayor a 10% de máximo y menor al 25% de máximo, ponga el texto en naranja - si la cantidad es mayor al 25% de maximo y menor al 40% de máximo, ponga el texto amarillo - si la cantidad es mayor al 40% de máximo, ponga el texto en verde.
 
 Crear un componente ListaStock que tome una lista de productos y renderice un ul con un array de Stock por cada ítem de la lista. Ejemplo de lista:
 
